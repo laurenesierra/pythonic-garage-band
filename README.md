@@ -11,6 +11,11 @@ Glenn Clark
 
 This is a garage band made using Object Oriented Programming
 
+## Config
+Poetry
+Pytest
+Yaml
+
 ## Band Tests
 
 A Band instance should have a name attribute which is a string.
